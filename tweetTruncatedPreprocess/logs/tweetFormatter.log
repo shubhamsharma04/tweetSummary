@@ -1,0 +1,18 @@
+2016-12-02 21:16:13 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Fri Dec 02 21:16:13 EST 2016]; root of context hierarchy
+2016-12-02 21:16:13 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-02 21:16:14 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
+2016-12-02 21:38:35 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Fri Dec 02 21:38:35 EST 2016]; root of context hierarchy
+2016-12-02 21:38:35 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-02 21:38:35 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
+2016-12-02 21:38:52 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Fri Dec 02 21:38:52 EST 2016]; root of context hierarchy
+2016-12-02 21:38:52 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-02 21:38:52 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
+2016-12-02 21:44:54 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Fri Dec 02 21:44:54 EST 2016]; root of context hierarchy
+2016-12-02 21:44:54 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-02 21:44:54 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
+2016-12-04 09:38:12 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Sun Dec 04 09:38:12 EST 2016]; root of context hierarchy
+2016-12-04 09:38:12 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-04 09:38:13 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
+2016-12-04 09:48:29 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@64a294a6: startup date [Sun Dec 04 09:48:29 EST 2016]; root of context hierarchy
+2016-12-04 09:48:29 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [Spring.xml]
+2016-12-04 09:48:29 INFO  PropertySourcesPlaceholderConfigurer:172 - Loading properties file from URL [file:/E:/forSvn/tweetSummary/tweetTruncatedPreprocess/target/classes/formatter.properties]
